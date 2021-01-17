@@ -1,0 +1,11 @@
+[
+	{
+		"id": "2",
+		"name": "Ecommerce Store",
+		"iconpath":"ecommerce/images/",
+		"htmlpath": "ecommerce/",
+		"info":"Tested on XRViewer browser iOS (> iPhone 6s). Work with all computer browsers."
+	},
+	
+	
+]
